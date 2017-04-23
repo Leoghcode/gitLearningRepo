@@ -1,1 +1,2 @@
 stage.txt test whether the status will show this uncommit text when it occurs changes.now,it's a change line.
+another one.
