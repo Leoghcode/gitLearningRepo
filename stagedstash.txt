@@ -1,0 +1,2 @@
+it's a text which is modified,staged but not commited yet.
+it's used to test stash with readme.txt
