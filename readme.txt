@@ -6,3 +6,4 @@ git no--ff
 git fastforward merge
 git b2 ff
 git bug_1 fixed
+git b3 stash
